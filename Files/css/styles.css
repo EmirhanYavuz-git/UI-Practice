@@ -15,3 +15,12 @@ p{
 #signup{
     background-color: blue;
 }
+
+.btn1{
+    background-color: #ffc400;
+    font-size: 20px;
+}
+
+.btnFont{
+    font-family: "Arial Rounded MT Bold"
+}
